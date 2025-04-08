@@ -1,0 +1,11 @@
+Project topics on which DL Project can be made on
+
+Types of Model in which model can be made
+
+CNN - processing and analyzing visual data like images and videos, enabling tasks like image recognition and object detection
+RNN - Prediction and Deep learning which works on problems related to sequential or time stamp data , like speech detection , stock price prediction
+
+Some topic Ideas:
+1. Prediction of person is productive person or not based on its habits based on 30 days information
+2. A prediction model which checks if a person is run out or not out by giving it image of scene of wickets being hit and person crossing line or not
+3. Review Sentiment Analysis which analyzes weather review is positive , negative or neutral
